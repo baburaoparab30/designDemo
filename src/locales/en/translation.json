@@ -1,0 +1,7 @@
+"ISV_12K": {
+  "description": {
+	"usecase1": "Integrate services from IBM Cloud Catalog",
+	"usecase2": "Containerize and build with Red Hat OpenShift",
+	"usecase3": "Migrate workloads to IBM Cloud Platform"
+  }
+}
